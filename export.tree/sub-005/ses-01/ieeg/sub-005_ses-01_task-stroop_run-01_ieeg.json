@@ -1,0 +1,11 @@
+{
+  "TaskName": "stroop",
+  "SamplingFrequency": 1000,
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": "n/a",
+  "Manufacturer": "n/a",
+  "ManufacturersModelName": "n/a",
+  "TaskDescription": "101 = Congruent word reading Stimulus Onset, 102 = Congruent word reading Response Onset, 201 = Incongruent word reading Stimulus Onset, 202 = Incongruent word reading Response Onset, 301 = Stroop naming Stimulus Onset, 102 = Stroop naming Response Onset.",
+  "Instructions": "n/a",
+  "iEEGReference": "n/a"
+}
